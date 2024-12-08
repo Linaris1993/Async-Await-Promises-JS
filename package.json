@@ -1,0 +1,16 @@
+{
+  "name": "async-await-promises-js",
+  "version": "1.0.0",
+  "description": "\"# Async-Await-Promises-JS\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
