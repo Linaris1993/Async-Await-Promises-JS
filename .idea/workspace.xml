@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,17 +14,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bc302-e3da-4fad-8cd1-165577709376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2-difference-between-sync-and-async-actions/Print4Numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-difference-between-sync-and-async-actions/number3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-callbacks/callback-hell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-callbacks/callbacks-are-not-always-asynchronous.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-callbacks/callbacks-lack-readability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-callbacks/how-to-handle-errors-in-asynchronous-code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-testing-callbacks/calculate-square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-testing-callbacks/test/calculate-square.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/howToCreatePromise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/rewriting-calculate-square-with-promises.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2puSlhEabhVm88o9ldY4m24NQqm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,18 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewarsSolutions" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/5-promises" />
       <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\3-callbacks" />
       <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\2-difference-between-sync-and-async-actions" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733614619760</updated>
       <workItem from="1733614620909" duration="6929000" />
+      <workItem from="1733778648202" duration="3917000" />
     </task>
     <servers />
   </component>
