@@ -14,8 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bc302-e3da-4fad-8cd1-165577709376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-promises/howToCreatePromise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-promises/rewriting-calculate-square-with-promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/Promisify-any-function/capitalize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/Promisify-any-function/database/create-database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/Promisify-any-function/database/users-callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/Promisify-any-function/database/users-promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/chaining-promises.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/making-http-requests-using-fetch-api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,9 +37,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
   <component name="ProjectId" id="2puSlhEabhVm88o9ldY4m24NQqm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,18 +45,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/5-promises" />
@@ -80,6 +73,8 @@
       <updated>1733614619760</updated>
       <workItem from="1733614620909" duration="6929000" />
       <workItem from="1733778648202" duration="3917000" />
+      <workItem from="1734312594425" duration="596000" />
+      <workItem from="1735076745631" duration="5126000" />
     </task>
     <servers />
   </component>
@@ -96,8 +91,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1735079509490">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735079509490" />
   </component>
 </project>
