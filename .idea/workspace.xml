@@ -14,8 +14,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bc302-e3da-4fad-8cd1-165577709376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-promises/handling-promise-rejections.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-promises/promise-resolve-and-promise-reject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/executing-promises-in-parallel-promise-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/executing-promises-in-parallel-promise-allSettled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/getting-first-successful-promise-any.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/how-promise-all-handles-rejections.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/implementing-promise-all-from-scratch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/implementing-promise-allsettled-from-scratch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/implementing-promise-race-from-scratch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-promises/which-promise-is-faster-promise-race.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +76,8 @@
       <workItem from="1733614620909" duration="6929000" />
       <workItem from="1733778648202" duration="3917000" />
       <workItem from="1734312594425" duration="596000" />
-      <workItem from="1735076745631" duration="8501000" />
+      <workItem from="1735076745631" duration="8790000" />
+      <workItem from="1735154728943" duration="9009000" />
     </task>
     <servers />
   </component>
@@ -93,9 +100,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1735079509490">
+    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1735162469942">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735079509490" />
+    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735162469942" />
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1735157619552">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735157619552" />
   </component>
 </project>
