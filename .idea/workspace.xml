@@ -14,13 +14,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bc302-e3da-4fad-8cd1-165577709376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6-testing-promises/src/calculate-square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-testing-promises/test/calculate-square.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-testing-promises/test/making-several-assertions.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/async-await-fetching-Api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/async-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/await-keyword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/handling-errors-async-await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/sequential-vs-parallel-execution-async-await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-async-await/top-level-async.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,7 @@
       <workItem from="1735076745631" duration="8790000" />
       <workItem from="1735154728943" duration="9009000" />
       <workItem from="1735265033639" duration="3277000" />
+      <workItem from="1735351797372" duration="3464000" />
     </task>
     <servers />
   </component>
@@ -99,10 +100,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1735162469942">
+    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1735354187313">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735162469942" />
+    <state x="297" y="139" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672/1920.0.1920.1032@0.0.1280.672" timestamp="1735354187313" />
     <state x="303" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1735157619552">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
