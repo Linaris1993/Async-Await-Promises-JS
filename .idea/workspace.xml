@@ -14,9 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b52bc302-e3da-4fad-8cd1-165577709376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/8-advanced-event-loop/before.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-advanced-event-loop/long-tasks/queue-microtask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8-advanced-event-loop/animations.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-advanced-event-loop/before.htm" beforeDir="false" afterPath="$PROJECT_DIR$/8-advanced-event-loop/longTask.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-advanced-event-loop/long-tasks/after.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-advanced-event-loop/long-tasks/queue-microtask.html" beforeDir="false" afterPath="$PROJECT_DIR$/8-advanced-event-loop/queue-microtask.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\8-advanced-event-loop" />
+      <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\8-advanced-event-loop\long-tasks" />
       <recent name="$PROJECT_DIR$/5-promises" />
       <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\3-callbacks" />
       <recent name="C:\Users\13477\Desktop\Async-Await-Promises-JS\2-difference-between-sync-and-async-actions" />
@@ -75,6 +79,7 @@
       <workItem from="1735265033639" duration="3277000" />
       <workItem from="1735351797372" duration="3794000" />
       <workItem from="1735430631421" duration="3611000" />
+      <workItem from="1735516921408" duration="2307000" />
     </task>
     <servers />
   </component>
